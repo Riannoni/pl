@@ -1,0 +1,365 @@
+#EXTM3U url-tvg="http://www.cn.ru/data/tv/schedule.zip" m3uautoload=1 cache=500 deinterlace=1 aspect-ratio=4:3 crop=690x550+10+10 reportstat=http://iptv.cn.ru/iptv-stat/post.php reportlog=http://clr.novotelecom.ru/iptv/log.php
+#EXTINF:-1 tvg-name=10338245 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Эфир", Первый
+udp://@239.1.15.1:1234
+
+#EXTINF:-1 tvg-name=10338258 crop=1920x1080+0+0 aspect-ratio=16:9, Россия 1
+udp://@239.1.15.2:1234
+
+#EXTINF:-1 tvg-name=10338240 crop=1920x1080+0+0 aspect-ratio=16:9, Матч ТВ
+udp://@239.1.15.16:1234
+
+#EXTINF:-1 tvg-name=10338229 crop=1920x1080+0+0 aspect-ratio=16:9, НТВ
+udp://@239.1.15.4:1234
+
+#EXTINF:-1 tvg-name=10338257 crop=1920x1080+0+0 aspect-ratio=16:9, Пятый
+udp://@239.1.10.3:1234
+
+#EXTINF:-1 tvg-name=10338246 crop=1920x1080+0+0 aspect-ratio=16:9, Россия К
+udp://@239.1.10.7:1234
+
+#EXTINF:-1 tvg-name=10338232 aspect-ratio=16:9, Россия 24
+udp://@239.1.15.3:1234
+
+#EXTINF:-1 tvg-name=10338254 crop=1920x1080+0+0 aspect-ratio=16:9, Карусель
+udp://@239.1.15.11:1234
+
+#EXTINF:-1 tvg-name=23643734 aspect-ratio=16:9, ОТР
+udp://@239.1.15.8:1234
+
+#EXTINF:-1 tvg-name=10338249 aspect-ratio=16:9, ТВЦ
+udp://@239.1.15.10:1234
+
+#EXTINF:-1 tvg-name=10338251 crop=1920x1080+0+0 aspect-ratio=16:9, РЕН-ТВ
+udp://@239.1.15.5:1234
+
+#EXTINF:-1 tvg-name=24984375, СПАС
+udp://@239.1.15.22:1234
+
+#EXTINF:-1 tvg-name=10338262, СТС
+udp://@239.1.10.13:1234
+
+#EXTINF:-1 tvg-name=10338255 crop=1920x1080+0+0 aspect-ratio=16:9, Домашний
+udp://@239.1.10.5:1234
+
+#EXTINF:-1 tvg-name=10338233 crop=1920x1080+0+0 aspect-ratio=16:9, ТВ-3
+udp://@239.1.10.4:1234
+
+#EXTINF:-1 tvg-name=10338230 crop=1920x1080+0+0 aspect-ratio=16:9, Пятница
+udp://@239.1.15.17:1234
+
+#EXTINF:-1 tvg-name=10338261 crop=1920x1080+0+0 aspect-ratio=16:9, Звезда
+udp://@239.1.15.9:1234
+
+#EXTINF:-1 tvg-name=22604640 aspect-ratio=16:9, Мир
+udp://@239.1.15.31:1234
+
+#EXTINF:-1 tvg-name=10338256 crop=1920x1080+0+0 aspect-ratio=16:9, ТНТ
+udp://@239.1.15.7:1234
+
+#EXTINF:-1 tvg-name=24984577 crop=1920x1080+0+0 aspect-ratio=16:9, Муз ТВ
+udp://@239.1.15.13:1234
+
+#EXTINF:-1 tvg-name=10338250 crop=1920x1080+0+0 aspect-ratio=16:9, ОТС HD
+udp://@239.1.21.50:1234
+
+#EXTINF:-1 tvg-name=10338266 aspect-ratio=16:9, Disney Channel
+udp://@239.1.15.12:1234
+
+#EXTINF:-1 tvg-name=10338248 crop=1920x1080+0+0 aspect-ratio=16:9, ЮТВ
+udp://@239.1.15.18:1234
+
+#EXTINF:-1 tvg-name=10338263 crop=1920x1080+0+0 aspect-ratio=16:9, 49 КАНАЛ
+udp://@239.1.10.80:1234
+
+#EXTINF:-1 tvg-name=10338214 aspect-ratio=16:9, РБК
+udp://@239.1.1.2:1234
+
+#EXTINF:-1 tvg-name=14418601 crop=1920x1080+0+0 aspect-ratio=16:9, Союз
+udp://@239.1.15.19:1234
+
+#EXTINF:-1 tvg-name=84540928, Ювелирочка
+udp://@239.1.21.10:1234
+
+#EXTINF:-1 tvg-name=10338221 crop=1920x1080+0+0 aspect-ratio=16:9, Че
+udp://@239.1.15.14:1234
+
+#EXTINF:-1 tvg-name=24980068 crop=1920x1080+0+0 aspect-ratio=16:9, 8 канал
+udp://@239.1.15.21:1234
+
+#EXTINF:-1 tvg-name=159816814 crop=1920x1080+0+0 aspect-ratio=16:9, Победа HD
+udp://@239.1.21.68:1234
+
+#EXTINF:-1 tvg-name=32834260 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Детям и мамам", МУЛЬТ
+udp://@239.1.3.1:1234
+
+#EXTINF:-1 tvg-name=10338268 crop=1920x1080+0+0 aspect-ratio=16:9, Уникум
+udp://@239.1.3.5:1234
+
+#EXTINF:-1 tvg-name=31561586, Shop and Show
+udp://@239.1.21.37:1234
+
+#EXTINF:-1 tvg-name=10338267 aspect-ratio=16:9, Nickelodeon
+udp://@239.1.3.4:1234
+
+#EXTINF:-1 tvg-name=34498202 crop=1920x1080+0+0 aspect-ratio=16:9, СТС love
+udp://@239.1.3.8:1234
+
+#EXTINF:-1 tvg-name=10338281 aspect-ratio=4:3, Мама
+udp://@239.1.3.14:1234
+
+#EXTINF:-1 tvg-name=17003392 crop=1920x1080+0+0 aspect-ratio=16:9, Русский роман
+udp://@239.1.3.17:1234
+
+#EXTINF:-1 tvg-name=10338273, Индийское кино
+udp://@239.1.3.15:1234
+
+#EXTINF:-1 tvg-name=196608176 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Познавательный", ТЕЛЕСТАНЦИЯ МИР
+udp://@239.1.15.6:1234
+
+#EXTINF:-1 tvg-name=10338208 aspect-ratio=16:9, Т24
+udp://@239.1.5.10:1234
+
+#EXTINF:-1 tvg-name=48398116, Живая планета
+udp://@239.1.5.23:1234
+
+#EXTINF:-1 tvg-name=17025851 crop=1920x1080+0+0 aspect-ratio=16:9, Viasat History
+udp://@239.1.21.34:1234
+
+#EXTINF:-1 tvg-name=17025994 crop=1920x1080+0+0 aspect-ratio=16:9, Viasat Explorer
+udp://@239.1.21.35:1234
+
+#EXTINF:-1 tvg-name=10338260 crop=1920x1080+0+0 aspect-ratio=16:9, Viasat Nature
+udp://@239.1.21.36:1234
+
+#EXTINF:-1 tvg-name=10338231 aspect-ratio=16:9, National Geographic
+udp://@239.1.5.8:1234
+
+#EXTINF:-1 tvg-name=235214853 crop=1920x1080+0+0 aspect-ratio=16:9, Глазами туриста HD
+udp://@239.1.1.6:1234
+
+#EXTINF:-1 tvg-name=235214866 crop=1920x1080+0+0 aspect-ratio=16:9, Живая природа HD
+udp://@239.1.1.4:1234
+
+#EXTINF:-1 tvg-name=22301705 crop=1920x1080+0+0 aspect-ratio=16:9, ВРЕМЯ
+udp://@239.1.5.4:1234
+
+#EXTINF:-1 tvg-name=17406883 crop=1920x1080+0+0 aspect-ratio=16:9, 365 Дней
+udp://@239.1.5.20:1234
+
+#EXTINF:-1 tvg-name=10338277 crop=1920x1080+0+0 aspect-ratio=16:9, Da Vinci
+udp://@239.1.5.6:1234
+
+#EXTINF:-1 tvg-name=26739939 crop=1920x1080+0+0 aspect-ratio=16:9, Зоо ТВ
+udp://@239.1.21.16:1234
+
+#EXTINF:-1 tvg-name=108225537 crop=1920x1080+0+0 aspect-ratio=16:9, Наша Тема HD
+udp://@239.1.1.23:1234
+
+#EXTINF:-1 tvg-name=24979773 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Кино и сериалы", Открытый Мир
+udp://@239.1.5.24:1234
+
+#EXTINF:-1 tvg-name=10338279 crop=1920x1080+0+0 aspect-ratio=16:9, TV1000
+udp://@239.1.21.31:1234
+
+#EXTINF:-1 tvg-name=17026466 crop=1920x1080+0+0 aspect-ratio=16:9, TV 1000 Русское кино
+udp://@239.1.21.32:1234
+
+#EXTINF:-1 tvg-name=10338264 crop=1920x1080+0+0 aspect-ratio=16:9, TV1000 Action
+udp://@239.1.21.33:1234
+
+#EXTINF:-1 tvg-name=26552424 aspect-ratio=16:9, А1
+udp://@239.1.4.4:1234
+
+#EXTINF:-1 tvg-name=10338271 crop=1920x1080+0+0 aspect-ratio=16:9, .sci-fi
+udp://@239.1.4.7:1234
+
+#EXTINF:-1 tvg-name=10338200 aspect-ratio=16:9, TVXXI
+udp://@239.1.4.1:1234
+
+#EXTINF:-1 tvg-name=10338218 crop=1920x1080+0+0 aspect-ratio=16:9, Кинокомедия
+udp://@239.1.4.3:1234
+
+#EXTINF:-1 tvg-name=43469689, Русский детектив
+udp://@239.1.4.16:1234
+
+#EXTINF:-1 tvg-name=17406726 crop=1920x1080+0+0 aspect-ratio=16:9, Дом кино
+udp://@239.1.4.8:1234
+
+#EXTINF:-1 tvg-name=26552832 crop=1920x1080+0+0 aspect-ratio=16:9, Иллюзион+
+udp://@239.1.21.19:1234
+
+#EXTINF:-1 tvg-name=26424378 crop=1920x1080+0+0 aspect-ratio=16:9, Кинопоказ
+udp://@239.1.21.20:1234
+
+#EXTINF:-1 tvg-name=114150042, Дорама
+udp://@239.1.21.56:1234
+
+#EXTINF:-1 tvg-name=239730013 aspect-ratio=16:9, Мосфильм. Золотая коллекция HD
+udp://@239.1.1.7:1234
+
+#EXTINF:-1 tvg-name=152098339 crop=1920x1080+0+0 aspect-ratio=16:9, Fan HD
+udp://@239.1.21.52:1234
+
+#EXTINF:-1 tvg-name=106647474 crop=1920x1080+0+0 aspect-ratio=16:9, В гостях у сказки
+udp://@239.1.21.60:1234
+
+#EXTINF:-1 tvg-name=84605466 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Новости", Новосибирские новости HD
+udp://@239.1.21.84:1234
+
+#EXTINF:-1 tvg-name=10338220 aspect-ratio=16:9, Мир 24
+udp://@239.1.1.3:1234
+
+#EXTINF:-1 tvg-name=114149858 crop=1920x1080+0+0 aspect-ratio=16:9, Мультимузыка
+udp://@239.1.1.9:1234
+
+#EXTINF:-1 tvg-name=10338207 aspect-ratio=16:9, EuroNews
+udp://@239.1.1.5:1234
+
+#EXTINF:-1 tvg-name=10338252 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Хобби и развлечения", 2x2
+udp://@239.1.2.1:1234
+
+#EXTINF:-1 tvg-name=10338228 crop=1920x1080+0+0 aspect-ratio=16:9, Живи
+udp://@239.1.2.12:1234
+
+#EXTINF:-1 tvg-name=53342751, КтоКуда
+udp://@239.1.5.22:1234
+
+#EXTINF:-1 tvg-name=10338202, Усадьба
+udp://@239.1.2.17:1234
+
+#EXTINF:-1 tvg-name=17026038, Сарафан
+udp://@239.1.2.11:1234
+
+#EXTINF:-1 tvg-name=17406898, Кухня ТВ
+udp://@239.1.2.15:1234
+
+#EXTINF:-1 tvg-name=101324146 crop=1920x1080+0+0 aspect-ratio=16:9, Первый Вегетарианский (тест)
+udp://@239.1.1.27:1234
+
+#EXTINF:-1 tvg-name=23827385, Психология
+udp://@239.1.2.9:1234
+
+#EXTINF:-1 tvg-name=23695722 aspect-ratio=4:3, Успех
+udp://@239.1.2.3:1234
+
+#EXTINF:-1 tvg-name=10338210, Ретро
+udp://@239.1.21.23:1234
+
+#EXTINF:-1 tvg-name=17406754 crop=1920x1080+0+0 aspect-ratio=16:9, Авто плюс
+udp://@239.1.2.6:1234
+
+#EXTINF:-1 tvg-name=17406889 aspect-ratio=4:3, Оружие
+udp://@239.1.2.7:1234
+
+#EXTINF:-1 tvg-name=22301408 crop=1920x1080+0+0 aspect-ratio=16:9, Телекафе
+udp://@239.1.2.18:1234
+
+#EXTINF:-1 tvg-name=71044747 crop=1920x1080+0+0 aspect-ratio=16:9, ТНТ4
+udp://@239.1.2.16:1234
+
+#EXTINF:-1 tvg-name=115252710 crop=1920x1080+0+0 aspect-ratio=16:9, Суббота
+udp://@239.1.21.45:1234
+
+#EXTINF:-1 tvg-name=58456799 crop=1920x1080+0+0 aspect-ratio=16:9, Бобёр
+udp://@239.1.2.19:1234
+
+#EXTINF:-1 tvg-name=26105598 crop=1920x1080+0+0 aspect-ratio=16:9, Тонус
+udp://@239.1.21.17:1234
+
+#EXTINF:-1 tvg-name=32657559 crop=1920x1080+0+0 aspect-ratio=16:9, Театр
+udp://@239.1.21.18:1234
+
+#EXTINF:-1 tvg-name=264687296 crop=1920x1080+0+0 aspect-ratio=16:9, Живи Активно HD
+udp://@239.1.1.24:1234
+
+#EXTINF:-1 tvg-name=70096620 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Музыка", ТНТ MUSIC
+udp://@239.1.8.2:1234
+
+#EXTINF:-1 tvg-name=10338238 crop=1920x1080+0+0 aspect-ratio=16:9, RU.TV
+udp://@239.1.8.4:1234
+
+#EXTINF:-1 tvg-name=10338239 crop=1920x1080+0+0 aspect-ratio=16:9, Music Box Russia
+udp://@239.1.8.5:1234
+
+#EXTINF:-1 tvg-name=10338280 crop=1920x1080+0+0 aspect-ratio=16:9, BRIDGE
+udp://@239.1.8.8:1234
+
+#EXTINF:-1 tvg-name=17025835 aspect-ratio=4:3, Шансон ТВ
+udp://@239.1.8.12:1234
+
+#EXTINF:-1 tvg-name=26552802, BRIDGE РУССКИЙ ХИТ
+udp://@239.1.8.14:1234
+
+#EXTINF:-1 tvg-name=17406909 aspect-ratio=16:9, Europa Plus TV
+udp://@239.1.8.10:1234
+
+#EXTINF:-1 tvg-name=17406852, Ля-минор
+udp://@239.1.8.13:1234
+
+#EXTINF:-1 tvg-name=26552739 crop=1920x1080+0+0 aspect-ratio=16:9, BRIDGE HITS
+udp://@239.1.8.17:1234
+
+#EXTINF:-1 tvg-name=123495273 crop=1920x1080+0+0 aspect-ratio=16:9, Большая Азия
+udp://@239.1.3.9:1234
+
+#EXTINF:-1 tvg-name=10338237 crop=1920x1080+0+0 aspect-ratio=16:9, О2ТВ
+udp://@239.1.21.54:1234
+
+#EXTINF:-1 tvg-name=147499540 crop=1920x1080+0+0 aspect-ratio=16:9, ЖАРА
+udp://@239.1.21.61:1234
+
+#EXTINF:-1 tvg-name=10338212 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="Спорт", Футбол
+udp://@239.1.12.5:1234
+
+#EXTINF:-1 tvg-name=10338196 aspect-ratio=16:9, КХЛ
+udp://@239.1.12.6:1234
+
+#EXTINF:-1 tvg-name=98123482 crop=1920x1080+0+0 aspect-ratio=16:9 group-title="HD", ТНТ HD
+udp://@239.1.21.55:1234
+
+#EXTINF:-1 tvg-name=21185671 crop=1920x1080+0+0 aspect-ratio=16:9, Россия HD
+udp://@239.1.10.22:1234
+
+#EXTINF:-1 tvg-name=21381677 crop=1920x1080+0+0 aspect-ratio=16:9, Первый HD
+udp://@239.1.15.20:1234
+
+#EXTINF:-1 tvg-name=60995105 crop=1920x1080+0+0 aspect-ratio=16:9, Матч HD
+udp://@239.1.15.23:1234
+
+#EXTINF:-1 tvg-name=18779970 crop=1920x1080+0+0 aspect-ratio=16:9, Fox HD
+udp://@239.1.17.5:1234
+
+#EXTINF:-1 tvg-name=18779974 crop=1920x1080+0+0 aspect-ratio=16:9, Fox Life HD
+udp://@239.1.9.3:1234
+
+#EXTINF:-1 tvg-name=15128126 crop=1920x1080+0+0 aspect-ratio=16:9, HDL
+udp://@239.1.9.2:1234
+
+#EXTINF:-1 tvg-name=17406918 crop=1920x1080+0+0 aspect-ratio=16:9, WFC
+udp://@239.1.17.8:1234
+
+#EXTINF:-1 tvg-name=26957011 crop=1920x1080+0+0 aspect-ratio=16:9, 1HD Music Television
+udp://@239.1.9.6:1234
+
+#EXTINF:-1 tvg-name=26552809 crop=1920x1080+0+0 aspect-ratio=16:9, Russia Today HD
+udp://@239.1.9.4:1234
+
+#EXTINF:-1 tvg-name=26552805 crop=1920x1080+0+0 aspect-ratio=16:9, Russia Today Doc HD
+udp://@239.1.9.5:1234
+
+#EXTINF:-1 tvg-name=36824328 crop=1920x1080+0+0 aspect-ratio=16:9, Наша Сибирь HD
+udp://@239.1.9.7:1234
+
+#EXTINF:-1 tvg-name=19854723 crop=1920x1080+0+0 aspect-ratio=16:9, .red HD
+udp://@239.1.17.18:1234
+
+#EXTINF:-1 tvg-name=15127796 crop=1920x1080+0+0 aspect-ratio=16:9, MTV Live HD
+udp://@239.1.17.83:1234
+
+#EXTINF:-1 tvg-name=124166886, НТВ HD
+udp://@239.1.1.26:1234
+
+#EXTINF:-1 tvg-name=266044798, РЕН-ТВ HD
+udp://@239.1.1.25:1234
+
+
